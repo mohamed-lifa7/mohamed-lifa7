@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hey there, I'm Lifa Mohammed Seddik!</h1>
 <h3 align="center">Building the web, one pixel at a time </h3>
 
-- 🔭 I’m currently working on [DenDron](https://github.com/Mohamed-lifa7/dendron)
+- 🔭 I’m currently working on [Salatify](https://github.com/Mohamed-lifa7/salatify)
 
 - 🌱 I’m currently learning **Nextjs**
 
